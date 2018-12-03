@@ -6,5 +6,10 @@ class Songs
     @song = song
   end
 
+  def room_has_songs
+    return @song2
+  end
+
+
 
 end
